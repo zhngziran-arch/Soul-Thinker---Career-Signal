@@ -1,4 +1,4 @@
-# 去留 · Career Signal
+# Soul Thinker · Career Signal
 
 一个基于 Vue 3 与 Vite 的个人职业状态自评网站。18 道情境题分别呈现工作状态与离职准备，并提供对应具体回答的行动建议、沟通示例、可打印报告与匿名分享卡。
 
